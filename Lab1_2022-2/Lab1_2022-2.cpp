@@ -3,6 +3,8 @@
 
 #include <iostream>
 const int MAX = 16;
+const int Min = 12;
+// CAMBIO DE VERIFICACION
 
 using namespace std;
 
