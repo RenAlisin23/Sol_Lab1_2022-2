@@ -5,7 +5,7 @@
 const int MAX = 16;
 const int Min = 12;
 // CAMBIO DE VERIFICACION
-
+//hola jose
 using namespace std;
 
 void read_data(int *ptr_n, int coded_word_numbers[], char coded_word[]);
